@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    background-color: plum;
+    text-align: center;
+    color: darkred;
+}
+
+button {
+    cursor: pointer;
+    background-color: palevioletred;
+    border: 3px solid white;
+    color: white;
+}
+
+h1 {
+    color: purple;
+}
+
+input {
+    background-color: palevioletred;
+    color: white;
+    border: 1px solid white;
+}
+
+.bold {
+    font-weight: bold;
+}
